@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1486216005 source:c:\shp\raneddo_blocks\raneddo\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<string>
+	<vector>
+	"DataCenter.h"
+
+1486216275 c:\shp\raneddo_blocks\raneddo\include\datacenter.h
+	"Film.h"
+	<string>
+
+1486216340 c:\shp\raneddo_blocks\raneddo\include\film.h
+	<string>
+	<vector>
+
